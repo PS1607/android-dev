@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.lunchtray.app-mergeDebugResources-47:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/prakharsharma/.gradle/caches/transforms-3/6d36629d4aa8deded1fe7af9d22f7606/transformed/appcompat-1.4.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

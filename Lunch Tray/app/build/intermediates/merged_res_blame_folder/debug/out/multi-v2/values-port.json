@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.lunchtray.app-mergeDebugResources-47:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/prakharsharma/.gradle/caches/transforms-3/6d36629d4aa8deded1fe7af9d22f7606/transformed/appcompat-1.4.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
